@@ -1,0 +1,7 @@
+title: Adrien Biencourt
+logo: https://avatars.githubusercontent.com/u/133773337
+description: Full Stack developer | AWS Serverless | Arch + Neovim
+show_downloads: false
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
